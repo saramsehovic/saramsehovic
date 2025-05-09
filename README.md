@@ -1,7 +1,7 @@
 ## Hello there, I'm Sara 👋
 
 ## 🚀 About Me
-I’m a **mechanical engineer** with a Bachelor’s degree and currently pursuing a **Master’s in EMJD Decentralized Smart Energy Systems**, specializing in **Thermal Energy Engineering** at **Universitat Politècnica de Catalunya**.
+I’m a **mechanical engineer** with a Bachelor’s degree from the **University of Sarajevo** and currently pursuing a **Master’s in EMJD Decentralized Smart Energy Systems**, specializing in **Thermal Energy Engineering** at **Universitat Politècnica de Catalunya**.
 
 <!--
 **saramsehovic/saramsehovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

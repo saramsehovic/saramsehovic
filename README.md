@@ -1,5 +1,7 @@
 ## Hello there, I'm Sara 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+
 <!--
 **saramsehovic/saramsehovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

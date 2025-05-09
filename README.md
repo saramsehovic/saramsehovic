@@ -1,6 +1,7 @@
 ## Hello there, I'm Sara 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+## 🚀 About Me
+I’m a passionate **mechanical engineer** with a Bachelor’s degree and currently pursuing a **Master’s in EMJD Decentralized Smart Energy Systems**, specializing in **Thermal Energy Engineering** at **Universitat Politècnica de Catalunya**.
 
 <!--
 **saramsehovic/saramsehovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
